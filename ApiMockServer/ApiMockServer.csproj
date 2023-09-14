@@ -8,6 +8,7 @@
         <AssemblyName>ApiMockServer</AssemblyName>
         <TargetFramework>net6.0</TargetFramework>
         <LangVersion>latest</LangVersion>
+        <IsPackable>true</IsPackable>
     </PropertyGroup>
 
     <ItemGroup>
